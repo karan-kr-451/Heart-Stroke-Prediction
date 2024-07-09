@@ -88,7 +88,7 @@ From these above models after hyperparameter optimization we selected Top two mo
 
 * Any modification has to be done in  Inside Config.yaml which can be done in route **/update_model_config**
 
-## `heart_stroke` is the main package folder which contains 
+## `StrokeProject` is the main package folder which contains 
 
 **Artifact** : Stores all artifacts created from running the application
 
