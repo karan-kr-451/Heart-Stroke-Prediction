@@ -1,6 +1,6 @@
 # Heart Stroke Predictor
 
-### [Application deployment Link](https://heart-stroke-predictor-ineuron.herokuapp.com/)
+### [Application deployment Link](https://heart-stroke-prediction-b6a5c7zg6a-uc.a.run.app/)
 
 ### Language and Libraries
 
